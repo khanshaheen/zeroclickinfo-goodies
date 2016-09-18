@@ -1,0 +1,87 @@
+{
+    "template_type": "reference",
+    "id": "Delhi_cheat_sheet",
+    "name": "Delhi",
+    "description": "officially the National Capital Territory of Delhi, is a city and the capital territory of the Republic of India. It is bordered by Haryana on three sides and by Uttar Pradesh to the east. It is the most expansive city in India—about 1,484 square kilometres (573 sq mi). It has a population of about 25 million, making it the second most populous city after Mumbai and most populous urban agglomeration in India and 3rd largest urban area in the world.",
+    "metadata": {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mumbai"
+    },
+    "section_order": [
+        "Architecture",
+        "Food",
+        "Transport"       
+    ],
+    "sections": {
+        "Architecture": [{
+            "val": "The Lotus Temple or the Bahá’í House of Worship is an architectural masterpiece which will make you want to go ‘wow’ but wait, you can’t say that aloud! Well, when inside the temple, you have to maintain silence! There are no sermons or ritualistic activities practised, one can just sit in peace and pray to their respective gods. Closest metro station- Nehru Place (Violet Line)",
+            "key": "LOTUS TEMPLE"
+        }, {
+            "val": "This is a must-see site and should be high on your priority list. Akshardham attracts 70% of all tourists who visit Delhi (not surprising at all!). Once you enter, I bet you wouldn’t want to leave. It has jaw-dropping architecture, a fascinating fountain show, an informative boat ride, a huge garden, a food court that offers scrumptious dishes and much more. Closest metro station- Akshardham (Blue Line)",
+            "key": "AKSHARDHAM"
+        },{
+            "val": "If you are an art enthusiast or just like to go ‘aww’ over fantastic brush strokes, you must pay a visit to this place. NGMA is one of the most serene public buildings in Delhi. Take a walk around this beautiful piece of architecture and you will not want to get back to the hustling roads of Delhi. Closest metro station- Khan Market (Violet Line)",
+            "key": "NATIONAL GALLERY OF MODERN ART (NGMA)"
+        },{
+            "val": "Tughlaqabad Fort was built by the founder of the Tughlaq Dynasty in 1321. It is spread across an area of 6.5 km and is near the well established residential-commercial area of Tughlaqabad. A google-search of the fort is enough incentive for you to jump on the metro and make a fun trip out of it. Don’t forget to take your picnic basket, soak up some sun and enjoy the monumental beauty. Closest metro station- Tughlaqabad (Violet Line)",
+            "key": "TUGHLAQABAD FORT"
+        },{
+            "val": "This monument was described as the ‘last flicker in the lamp of Mughal architecture’. It was built in 1754 for statesman Safdarjung. The huge structure is surrounded by beautiful gardens of the Mughal charbagh style. You’ll be certainly surprised with the silent environment here even though it is right next to the busy Lodi Road. Closest metro station- Jor bagh (Yellow line)",
+            "key": "TOMB OF SAFDARJANG"
+        },{
+            "val": "When you visit Purana Qila, don’t forget to walk upto the National Zoological Park or Delhi Zoo.  It is spread over an area of 176-acre and is very (read veryyyy) crowded on weekends. If you like long walks this place is perfect for it. Walk around enjoying the funny activities of hippos and the hysterical laughs of the hyaenas. You can also rent a battery-operated vehicle at the zoo to take a tour. Closest metro station- Pragati Maidan (Blue Line)",
+            "key": "PURANA QILA AND NATIONAL ZOOLOGICAL PARK"
+        },{
+            "val": "Baoli which means stepwell was constructed in order to preserve water in ancient times. What is special about this baoli is that it is situated right in the heart of the city, surrounded by tall buildings of Connaught Place. In the crowd you might spot poets and artists working their magic on paper thanks to the awesomeness of the location. Closest metro station- Rajiv Chowk (Yellow Line)",
+            "key": "AGRASEN KI BAOLI"
+        },{
+            "val": "This garden is a treat to the eyes. It has 25 sculptures and murals on display and walkways surrounded by flowering and fragrant shrubs and trees. There is also a food and shopping court in the garden where you can enjoy a good meal while a light breeze awakens your senses. The garden is spotted as one of the most romantic places in Delhi. Closest metro station- Saket (Yellow Line)",
+            "key": "GARDEN OF FIVE SENSES"
+        },{
+            "val": "Ranbir Kapoor and Nargis Fakhri shout out some drunken dialogues in the Hauz Khas Fort in their movie Rockstar! The Fort overlooks a beautiful lake where you can feed adorable ducks and swans. To reach the lake, take a walk through the deer park and admire the spotted animals. Closest metro station- Green Park (Yellow Line)",
+            "key": "HAUZ KHAS VILLAGE AND DEER PARK"
+        },{
+            "val": "Your faith in God will reach new heights after you attend the ‘Arti’ at the ISKCON Temple. Devotional songs play while you walk around the temple adorned with splendid portraits and idols of Lord Krishna. You will witness a calm environment with an inexplicable energy around you. Closest metro station- Nehru Place (Violet Line)",
+            "key": "ISKCON TEMPLE"
+        }],
+        "Food": [{
+            "val": "From being the perfect start to a “healthy” morning in most Delhi households, to a meal for hungry college students and even a late-night snack, paranthas are definitely on the top of the list when it comes to my favorite food in Delhi. Choose from a plain one or select a stuffing of your choice - potatoes, cauliflower, radish, eggs, keema, bananas or even last night’s left over dal - the options are galore.",
+            "key": "Paranthas"
+        },{
+            "val": "If there is one thing that keeps the Delhi food scene ticking it’s the Street Food. With a variety that is unmatched, eating on the streets of Delhi is a crash course in the history and culture of the place. Chandni Chowk is undoubtedly the Street Food Capital of Delhi, and while no guide book can actually pinpoint the best places for Chaat, there are some landmark food haunts that really stand out. Of course, if you aren’t willing to travel that far, fret not for there are plenty of options for street food in Delhi.",
+            "key": "Chaat"
+        },{
+            "val": "Here’s an interesting story about the origin of one of the most gratifying dishes on this planet. It originated in the 1950s in Moti Mahal Restaurant, Daryaganj, a neighbourhood skirting the Walled City. Known for its Tandoori Chicken, the cooks there accidentally tossed the sauce consisting of butter, tomato and chicken juices with tandoori chicken pieces; the rest is history. Today, this dish can be found in almost every non-vegetarian restaurant and highway dhabas and is best enjoyed with rice or naan.",
+            "key": "Butter Chicken"
+        },{
+            "val": "Whoever thought grilled chunks of meat or fish marinated in aromatic Indian spices couldn’t give you joy should think again. While we Delhiites have a lot to be thankful for to the Mughals, Kebabs are one of them. Whether it is Kebabs being delivered to your car, a quintessentially Delhi experience, to food stalls and fine dining restaurants across the city, try this popular dish and you will be hooked forever.",
+            "key": "Kebabs"
+        },{
+            "val": "Here’s a piece of advice: This dish is best enjoyed on an empty stomach. Rich, spicy and heavy, this is one of the most popular Punjabi dishes and is definitely on my list of top 10 must-try dishes in Delhi. Don’t be surprised if you find it on the breakfast menu of restaurants across the capital. You can find this lip smacking dish at all food joints, be it local joints or restaurants, given its popularity with delhiites. It is generally accompanied with Lassi.",
+            "key": "Chole Bhature"
+        }],
+        "Transport": [{
+            "val": "The Mumbai Suburban Railway, popularly referred to as Locals forms the backbone of the city's transport system. It is operated by the Central Railway and Western Railway zones of the Indian Railways. Mumbai's suburban rail systems carried a total of 6.3 million passengers every day in 2007, which is more than half of the Indian Railways daily carrying capacity. Trains are overcrowded during peak hours, with nine-car trains of rated capacity 1,700 passengers, actually carrying around 4,500 passengers at peak hours. The Mumbai rail network is spread at an expanse of 319 route kilometres. 191 rakes (train-sets) of 9 car and 12 car composition are utilised to run a total of 2,226 train services in the city.",
+            "key": "Rail"
+        },{
+            "val": "Mumbai's bus services carried over 5.5 million passengers per day in 2008, which dropped to 2.8 million in 2015. Public buses run by BEST cover almost all parts of the metropolis, as well as parts of Navi Mumbai, Mira-Bhayandar and Thane. The BEST operates a total of 4,608 buses with CCTV cameras installed, ferrying 4.5 million passengers daily over 390 routes. Its fleet consists of single-decker, double-decker, vestibule, low-floor, disabled-friendly, air-conditioned and Euro III compliant diesel and compressed natural gas powered buses. BEST introduced air-conditioned buses in 1998. BEST buses are red in colour, based originally on the Routemaster buses of London. Maharashtra State Road Transport Corporation (MSRTC, also known as ST) buses provide intercity transport connecting Mumbai with other towns and cities of Maharashtra and nearby states.",
+            "key": "Bus"
+        },{
+            "val": "Water transport in Mumbai consists of ferries, hovercrafts and catamarans. Services are provided by both government agencies as well as private partners. Hovercraft services plied briefly in the late 1990s between the Gateway of India and CBD Belapur in Navi Mumbai. They were subsequently scrapped due to lack of adequate infrastructure.",
+            "key": "Water"
+        },{
+            "val": "Mumbai is served by National Highway 3, National Highway 4, National Highway 8, National Highway 17 and National Highway 222 of India National Highways system. The Mumbai-Pune Expressway was the first expressway built in India. The Eastern Freeway was opened in 2013. The Mumbai Nashik Expressway, Mumbai-Vadodara Expressway, are under construction. The Bandra-Worli Sea Link bridge, along with Mahim Causeway, links the island city to the western suburbs. The three major road arteries of the city are the Eastern Express Highway from Sion to Thane, the Sion Panvel Expressway from Sion to Panvel and the Western Express Highway from Bandra to Dahisar. Mumbai has approximately 1,900 km (1,181 mi) of roads. There are five tolled entry points to the city by road",
+            "key": "Road"
+        },{
+            "val": "The Chhatrapati Shivaji International Airport (formerly Sahar International Airport) is the main aviation hub in the city and the second busiest airport in India in terms of passenger traffic.[249] It handled 36.6 million passengers and 694,300 tonnes of cargo during FY 2014–2015. An upgrade plan was initiated in 2006, targeted at increasing the capacity of the airport to handle up to 40 million passengers annually[251] and the new terminal T2 was opened in February 2014.",
+            "key": "Air"
+        },{
+            "val": "Mumbai is served by two major ports, Mumbai Port Trust and Jawaharlal Nehru Port Trust, which lies just across the creek in Navi Mumbai. Mumbai Port has one of the best natural harbours in the world, and has extensive wet and dry dock accommodation facilities.Jawaharlal Nehru Port, commissioned on 26 May 1989, is the busiest and most modern major port in India. It handles 55–60% of the country's total containerised cargo. Ferries from Ferry Wharf in Mazagaon allow access to islands near the city.",
+            "key": "Sea"
+        },{
+    "val": "The Delhi Metro is a rapid transit system serving Delhi, Faridabad, Gurgaon, Noida and Ghaziabad in the National Capital Region of India. Delhi Metro is the world's 10th largest metro system in terms of length. Delhi Metro was India's second modern public transportation system, which has revolutionised travel by providing a fast, reliable, safe, and comfortable means of transport. The network consists of six lines with a total length of 189.63 kilometres (117.83 miles) with 142 stations, of which 35 are underground, five are at-grade, and the remainder are elevated.",
+            "key": "Metro"
+        } ]
+        
+    }
+}
